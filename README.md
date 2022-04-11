@@ -16,3 +16,9 @@ To run the example:
 Details about each service and how to run them is present in the induvidual services directories.
 
 Hope this helps someone 🎉🌮
+
+## Enhancements : 
+1. Try this pattern for a real project
+2. load application configuration from config folder
+3. [Use the same Dockerfile for both local development and production with multi-stage builds](https://blog.atulr.com/docker-local-production-image)
+4. 
